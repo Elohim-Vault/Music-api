@@ -1,0 +1,7 @@
+.env
+jest.config.js
+src/__tests__
+node_modules
+.idea
+dist
+package-lock.json
